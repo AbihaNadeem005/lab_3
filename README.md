@@ -8,7 +8,7 @@ This is the first test line.
 This is a small change for the amend commit task.
 This is an additional change for the amended commit.
 This is a local change.
-This is Lab 3.
+This is Lab 3 edited on github.
 Again this is a Lab 3.
 Again this is a local change.
 
