@@ -10,4 +10,6 @@ This is an additional change for the amended commit.
 This is a local change.
 This is Lab 3.
 Again this is a Lab 3.
+Again this is a local change.
+
 
