@@ -9,6 +9,7 @@ This is a small change for the amend commit task.
 This is an additional change for the amended commit.
 This is a local change.
 This is Lab 3 edited on github.
+This is Lab 3 edited locally.
 Again this is a Lab 3.
 Again this is a local change.
 
