@@ -5,3 +5,5 @@ This line was updated locally at the same time.
 Second line added remotely.
 Second line added locally.
 This is the first test line.
+This is a small change for the amend commit task.
+This is an additional change for the amended commit.
